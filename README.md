@@ -1,6 +1,0 @@
-CREATE DATABASE CONCESSIONARIA;
- CREATE TABLE VEICULO(
-ID SERIAL PRIMARY KEY,
-
-marca varchar(100) not null,
-modelo varchar(100) not null);
